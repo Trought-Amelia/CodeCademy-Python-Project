@@ -1,2 +1,2 @@
 # CodeCademy-Python-Project
-A DND character generator
+A character builder applicable to most RPG systems
